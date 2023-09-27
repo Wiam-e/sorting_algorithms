@@ -2,9 +2,11 @@
 
 /**
  * selection_sort - sorting an array using selection sort algorithm
+ *
  * @array: the array to sort
  * @size: the size of the array
  */
+
 void selection_sort(int *array, size_t size)
 {
 	int small, tmp;
